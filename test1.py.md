@@ -1,6 +1,5 @@
 ## Some markdown
 - with a list
 
-
-    import sys
-    print "Hello World"
+      import sys
+      print "Hello World"
