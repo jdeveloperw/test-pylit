@@ -1,6 +1,7 @@
 ## Some markdown
 - with a list
-<br/>
 
+<pre>
     import sys
     print "Hello World"
+</pre>
